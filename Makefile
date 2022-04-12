@@ -1,7 +1,7 @@
 .PHONY: default
 
 default:
-	find . -name "*.zip" -exec unzip -o {} \;
+	find . -name "*.zip" -exec unzip \;
 
 # stl:
 # import ImportGui
