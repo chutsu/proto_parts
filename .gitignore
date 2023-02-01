@@ -1,6 +1,17 @@
 *.stl
 *.STL
+
 *.step
 *.STEP
+
+*.igs
+*.IGS
+
+*.ipt
+*.IPT
+
+*.stp
+*.STP
+
 *.dwg
 *.png
